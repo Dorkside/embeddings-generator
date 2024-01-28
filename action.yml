@@ -1,4 +1,4 @@
-name: 'supabase-embeddings-generator'
+name: 'dorkside-embeddings-generator'
 description: 'Generate embeddings from your Knowledge Base to use with Supabase Vector.'
 author: 'Supabase'
 inputs:
